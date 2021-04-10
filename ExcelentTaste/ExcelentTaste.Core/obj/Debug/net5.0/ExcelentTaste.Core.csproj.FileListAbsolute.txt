@@ -1,0 +1,12 @@
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\bin\Debug\net5.0\ExcelentTaste.Core.deps.json
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\bin\Debug\net5.0\ExcelentTaste.Core.dll
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\bin\Debug\net5.0\ref\ExcelentTaste.Core.dll
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\bin\Debug\net5.0\ExcelentTaste.Core.pdb
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ExcelentTaste.Core.csprojAssemblyReference.cache
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ExcelentTaste.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ExcelentTaste.Core.AssemblyInfoInputs.cache
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ExcelentTaste.Core.AssemblyInfo.cs
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ExcelentTaste.Core.csproj.CoreCompileInputs.cache
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ExcelentTaste.Core.dll
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ref\ExcelentTaste.Core.dll
+C:\Users\deploy\source\repos\ExcelentTaste\ExcelentTaste.Core\obj\Debug\net5.0\ExcelentTaste.Core.pdb

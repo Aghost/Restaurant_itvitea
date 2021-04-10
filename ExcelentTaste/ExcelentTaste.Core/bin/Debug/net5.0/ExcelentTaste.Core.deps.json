@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExcelentTaste.Core/1.0.0": {
+        "runtime": {
+          "ExcelentTaste.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcelentTaste.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+﻿@page "{restaurantId:int}"
+@model ExcelentTaste.Pages.Restaurants.DetailModel
+@{
+}
+
+<h2>@Model.Restaurant.Name</h2>
+<div>id: @Model.Restaurant.Id</div>
+<div>Name: @Model.Restaurant.Name</div>
+<div>Location: @Model.Restaurant.Location</div>
+<div>Cuisine: @Model.Restaurant.Cuisine</div>
+
+@if(Model.Message != null)
+{
+    <div class="alert alert-info">@Model.Message</div>
+}
+
+<a asp-page="./List">All Restaurants</a>
